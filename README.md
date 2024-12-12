@@ -6,7 +6,7 @@ Original Source Link:
 K Scott Mader (Username). (2018). Skin Cancer MNIST: HAM10000 [Dataset]. Kaggle. https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_1 (CC BY-NC-SA 4.0)
 
 
-Because the original dataset the model trained on is too big, the original dataset is from “Skin Cancer MNIST: HAM10000” in Kaggle.
+Because the original dataset the model trained on is too big to include here, the original dataset is from “Skin Cancer MNIST: HAM10000” in Kaggle.
 
 Original Source Link: 
 K Scott Mader (Username). (2018). Skin Cancer MNIST: HAM10000 [Dataset]. Kaggle. https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_1 (CC BY-NC-SA 4.0)
